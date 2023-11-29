@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564244055435",
+    "project_id": "kfuchatapp",
+    "storage_bucket": "kfuchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564244055435:android:573e08838e2076c8009b8e",
+        "android_client_info": {
+          "package_name": "com.jchocola.my_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmkzqXrh64J6Z9ouO9KpZmuIzbD7X8Nwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
